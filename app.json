@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "cakeking",
+    "slug": "cakeking",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
