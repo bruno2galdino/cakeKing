@@ -1,6 +1,8 @@
 {
   "compilerOptions": {
-    "strict": true
+    "strict": true,
+    "allowUnreachableCode": true
   },
+  "noImplicitAny":false,
   "extends": "expo/tsconfig.base"
 }
